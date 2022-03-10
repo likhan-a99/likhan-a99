@@ -1,6 +1,10 @@
-### Hi there 👋, I'm Ali Md Likhan
-#### I am Web Developer
+## Hi, I'm Ali Md Likhan 👋
+<p>
+👨‍💻 I am Web Developer <br>
+✍🏻 Love to write code <br>
+📚 Like to share my knowledge </p>
 ![I am Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm a Front End developer who is passionate about making an error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as public as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 10s websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with RAW web language but some technologies I enjoy working with include React.js, JavaScript as well as PHP.
 
