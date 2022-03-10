@@ -8,7 +8,12 @@
 
 I'm a Front End developer who is passionate about making an error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as public as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 10s websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with RAW web language but some technologies I enjoy working with include React.js, JavaScript as well as PHP.
 
-Skills: REACT / JS / HTML / CSS/ PHP
+## 🤹‍ Skills & Experiance:
+✅ REACT <br>
+✅ JS <br>
+✅ PHP <br>
+✅ HTML / CSS <br>
+✅ Photoshop / Illustrator <br>
 
 - 🔭 I’m currently working on Research on WAP(Web Application Platforms)-based Online Classroom Management System 
 - 🌱 I’m currently learning JavaScript 
@@ -16,7 +21,8 @@ Skills: REACT / JS / HTML / CSS/ PHP
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/likhan-a99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/likhana99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/li_k_h_an/)  
+[<img 
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/likhan-a99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/likhana99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/li_k_h_an/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
